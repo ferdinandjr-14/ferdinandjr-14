@@ -25,7 +25,7 @@
 ![NPM Badge](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm)
 ![Figma Badge](https://img.shields.io/badge/FIGMA-ab69c6?style=for-the-badge&logo=figma&logoColor=white)
 
-**Fundamentals:**  
+**Programming Foundation:**  
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📘 Currently Learning
@@ -36,3 +36,8 @@
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 
 ## 🎯 Goals
+💼 Gain real-world experience with an internship
+<br>
+💻 Become a professional Web Developer
+<br>
+🧠 Keep learning to grow as a developer
