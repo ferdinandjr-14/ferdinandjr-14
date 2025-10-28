@@ -26,11 +26,12 @@
 ![Figma Badge](https://img.shields.io/badge/FIGMA-ab69c6?style=for-the-badge&logo=figma&logoColor=white)
 
 **Programming Foundation:**  
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=coffeescript)
 
 ## 📘 Currently Learning
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![React Router Badge](https://img.shields.io/badge/React%20Router%20v7-black?style=for-the-badge&logo=reactrouter)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
@@ -41,3 +42,7 @@
 💻 Become a professional Web Developer
 <br>
 🧠 Keep learning to grow as a developer
+
+## 📞 Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=logmein)](https://www.linkedin.com/in/ferdinand-p-b72503317/)
+[![CV Badge](https://img.shields.io/badge/CV-c60000?style=for-the-badge&logo=readdotcv)](https://drive.google.com/file/d/1h9-60OSs3GnVCkEpJDwKYEQpriMm-XzY/view)
