@@ -7,6 +7,7 @@
 **Frontend:**  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
 **Backend:**  
@@ -19,7 +20,6 @@
 
 **Tools:**  
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![NPM Badge](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm)
 ![Figma Badge](https://img.shields.io/badge/FIGMA-ab69c6?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -29,11 +29,13 @@
 ## 📘 Currently Learning
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![React Router Badge](https://img.shields.io/badge/React%20Router%20v7-black?style=for-the-badge&logo=reactrouter)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![Typescript Badge](https://img.shields.io/badge/Typescript-5dc5f5?style=for-the-badge&logo=typescript)
+![NextJS Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-eb411f?style=for-the-badge&logo=angular)
+![PostgreSQL Badge](https://img.shields.io/badge/Posgresql-white?style=for-the-badge&logo=postgresql)
+![Drizzle ORM Badge](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle)
 
 ## 🎯 Goals
 💼 Gain real-world experience with an internship
