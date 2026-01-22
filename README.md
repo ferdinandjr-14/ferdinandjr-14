@@ -1,49 +1,80 @@
-# 👋 Hi, I am Ferdinand Pinto
+<div align="center">
 
-🎓 I'm a 2nd-year Web Development (DAW) student at Centre d’Estudis Politècnics, Barcelona.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ferdinand%20Pinto&fontAlign=50&fontAlignY=35&desc=Web%20Application%20Development%20Student&descAlign=50&descAlignY=55&color=0:0ea5e9,50:6366f1,100:0f172a" alt="Ferdinand Pinto Header" />
 
-## 🧰 Tech Stack
+### Aspiring Full-stack Web Developer | Barcelona
 
-**Frontend:**  
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+<p>
+  <a href="mailto:gioferdinandpd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ferdinand-p/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/🗣️ES%20|%20CA%20|%20EN-22c55e?style=for-the-badge" alt="Languages" />
+</p>
 
-**Backend:**  
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
+</div>
 
-**Databases:**  
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+---
 
-**Tools:**  
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![NPM Badge](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm)
-![Figma Badge](https://img.shields.io/badge/FIGMA-ab69c6?style=for-the-badge&logo=figma&logoColor=white)
+## 👨‍💻 Profile
 
-**Programming Foundation:**  
-![Java Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=coffeescript)
+I am a motivated **Web Application Development (DAW)** student based in Barcelona, eager to acquire professional experience. 
 
-## 📘 Currently Learning
+**Soft Skills:**
+- 🤝 Teamwork
+- 🤖 Autonomy
+- 📈 Productivity
+- 🧠 Problem Solving
+- ⚡ Adaptability & Desire to Learn
 
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Typescript Badge](https://img.shields.io/badge/Typescript-5dc5f5?style=for-the-badge&logo=typescript)
-![NextJS Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
-![Angular Badge](https://img.shields.io/badge/Angular-eb411f?style=for-the-badge&logo=angular)
-![PostgreSQL Badge](https://img.shields.io/badge/Posgresql-white?style=for-the-badge&logo=postgresql)
-![Drizzle ORM Badge](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle)
+---
 
-## 🎯 Goals
-💼 Gain real-world experience with an internship
+## 🛠️ Technical Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react&perline=3" alt="Frontend" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=6" alt="Backend" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" alt="Databases" />
+
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,figma,vite,pnpm&perline=6" alt="Tools" />
+
+### Programming Foundation
+<img src="https://skillicons.dev/icons?i=java&perline=6" alt="Tools" />
+
 <br>
-💻 Become a professional Web Developer
-<br>
-🧠 Keep learning to grow as a developer
 
-## 📞 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=logmein)](https://www.linkedin.com/in/ferdinand-p-b72503317/)
-[![CV Badge](https://img.shields.io/badge/CV-c60000?style=for-the-badge&logo=readdotcv)](https://drive.google.com/file/d/1h9-60OSs3GnVCkEpJDwKYEQpriMm-XzY/view?usp=sharing)
+### 🚀 Currently Learning
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,angular,docker&perline=6" alt="Learning" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### **KAPWA** - In Progress
+Community-focused web-app that helps users explore and engage with Filipino culture in Barcelona by discovering local Filipino-owned places, important cultural landmarks, attending events and meetups, and navigating interactive city maps to connect with the community.
+
+### **Kanban Project Manager**
+Developed a Kanban project manager using **PHP & Laravel**, focusing on collaborative features and task organization.
+
+---
+
+## 📊 Github Stats
+
+[![Ferdinand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ferdinandjr-14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+**Contact:** [gioferdinandpd@gmail.com](mailto:gioferdinandpd@gmail.com)
+
+</div>
