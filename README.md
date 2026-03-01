@@ -14,16 +14,9 @@
 
 ---
 
-## 👨‍💻 Profile
+## 👨‍💻 About Me
 
 I am a motivated **Web Application Development (DAW)** student based in Barcelona, eager to acquire professional experience. 
-
-**Soft Skills:**
-- 🤝 Teamwork
-- 🤖 Autonomy
-- 📈 Productivity
-- 🧠 Problem Solving
-- ⚡ Adaptability & Desire to Learn
 
 ---
 
@@ -32,24 +25,24 @@ I am a motivated **Web Application Development (DAW)** student based in Barcelon
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react&perline=3" alt="Frontend" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,ts,tailwind,sass" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=6" alt="Backend" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,laravel" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" alt="Databases" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,mongodb" />
 
 ### Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,figma,vite,pnpm&perline=6" alt="Tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,vite,pnpm" />
 
 ### Programming Foundation
-<img src="https://skillicons.dev/icons?i=java&perline=6" alt="Tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
 
 <br>
 
 ### 🚀 Currently Learning
-<img src="https://skillicons.dev/icons?i=nextjs,postgres,angular,docker&perline=6" alt="Learning" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,postgres,drizzle,vue,docker" />
 
 </div>
 
