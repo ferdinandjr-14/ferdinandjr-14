@@ -25,7 +25,7 @@ I am a motivated **Web Application Development (DAW)** student based in Barcelon
 <div align="center">
 
 ### Frontend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,ts,tailwind,sass" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,nextjs,ts,tailwind,sass" />
 
 ### Backend
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,php,laravel" />
@@ -42,7 +42,7 @@ I am a motivated **Web Application Development (DAW)** student based in Barcelon
 <br>
 
 ### Currently Learning
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,postgres,drizzle,vue,docker" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,drizzle,vue,docker" />
 
 </div>
 
